@@ -6,10 +6,10 @@ Course website: http://compneuro.uwaterloo.ca/courses/syde-750.html
 
 - Sep 6 - Administrative Remarks [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_00/syde556_lecture_00_slides_distr.pdf)]
 - Sep 6 - Introduction [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_01/syde556_lecture_01_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_01/syde556_lecture_01_notes.pdf)]
-- Sep 11 - Neurons [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)]
-- Sep 13, 18 - Population Representation [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)]
-- Sep 20, 25 - Temporal Representation [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_04/syde556_lecture_04_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)]
-- Sept 27, Oct 2 - Feedforward Transformations [[Slides]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf-->] [[Notes]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_05/syde556_lecture_05_notes.pdf-->][[Neuromorphics Bonus]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_05/neuromorphics_intro_2022.pdf-->]
+- Sep 11 - Neurons [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_02/syde556_lecture_02_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_02/syde556_lecture_02_notes.pdf)] [[Overheads](https://github.com/celiasmith/syde556-f23/raw/master/notes/Lecture_2.pdf)]
+- Sep 13, 18 - Population Representation [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_03/syde556_lecture_03_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_03/syde556_lecture_03_notes.pdf)] [[Overheads](https://github.com/celiasmith/syde556-f23/raw/master/notes/Lecture_3.pdf)]
+- Sep 20, 25 - Temporal Representation [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_04/syde556_lecture_04_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_04/syde556_lecture_04_notes.pdf)] [[Overheads](https://github.com/celiasmith/syde556-f23/raw/master/notes/Lecture_4.pdf)]
+- Sept 27, Oct 2 - Feedforward Transformations [[Slides](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_05/syde556_lecture_05_slides_distr.pdf)] [[Notes](https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_05/syde556_lecture_05_notes.pdf)][[Neuromorphics Bonus]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_05/neuromorphics_intro_2022.pdf-->]
 - Oct 16, 18 - Recurrent Dynamics [[Slides]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_06/syde556_lecture_06_slides_distr.pdf-->] [[Notes]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_06/syde556_lecture_06_notes.pdf-->]
 - Oct 23 - Temporal Basis Functions [[Slides]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_07/syde556_lecture_07_slides_distr.pdf-->] [[Notes]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_07/syde556_lecture_07_notes.pdf-->]
 - Oct 25, 30, Nov 1 - Learning [[Slides]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_08/syde556_lecture_08_slides_distr.pdf-->] [[Notes]<!---https://github.com/celiasmith/syde556-f23/raw/master/lectures/lecture_08/syde556_lecture_08_notes.pdf-->]
@@ -25,7 +25,7 @@ The five assignments will be posted here.
 
  * Do not copy any code from other students or online sources.  You are expected to write your own code from scratch for this course.
  * Each student must write their own code and submit their own assignment.
- * Assignments are due _at Midnight_.  The late penalty is one mark per day it is late. You may be at most seven days late.
+ * Assignments are due _at 11:59pm EST_.  The late penalty is one mark per day it is late. You may be at most seven days late.
  * **Please read and follow the instructions regarding submission posted on the front page of each assignment.**
  
 ### Assignment 1 ― due Oct 2, 2023
@@ -40,10 +40,10 @@ The five assignments will be posted here.
 ### Assignment 2 ― due Oct 23, 2023
 
 -   **Instructions**  
-  [[Download PDF]<!---https://github.com/celiasmith/syde556-f23/raw/master/assignments/assignment_02/syde556_assignment_02.pdf-->]
+  [[Download PDF](https://github.com/celiasmith/syde556-f23/raw/master/assignments/assignment_02/syde556_assignment_02.pdf)]
 
 -   **Jupyter Notebook Template**  
-  [[Download Jupyter Notebook]<!---https://github.com/celiasmith/syde556-f23/raw/master/assignments/assignment_02/syde556_assignment_02_template.ipynb-->]
+  [[Download Jupyter Notebook](https://github.com/celiasmith/syde556-f23/raw/master/assignments/assignment_02/syde556_assignment_02_template.ipynb)]
 
 ### Assignment 3 ― due Nov 6, 2023
 
